@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">rabbitmq</string>
+    <string name="enter_message">Enter message text</string>
+    <string name="send">Send</string>
 </resources>
